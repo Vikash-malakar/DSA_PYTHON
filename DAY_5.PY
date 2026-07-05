@@ -1,3 +1,4 @@
+
 def num_water_bottles(num_bottles, num_exchange):
     total = num_bottles
     empty = num_bottles
